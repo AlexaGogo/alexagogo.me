@@ -1,2 +1,2 @@
 # AlexaGogo.me
-Personal Portfolio Site
+Quick lil' personal website
