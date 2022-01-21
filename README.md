@@ -1,2 +1,2 @@
 # AlexaGogo.me
-Quick lil' personal website
+Quick lil' static site
